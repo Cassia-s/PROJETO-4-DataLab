@@ -227,10 +227,10 @@
     <li>Modelos preditivos simples que utilizam apenas o volume como variável explicativa são pouco eficazes. Sugere-se que outras variáveis, como fundamentos da empresa e eventos externos do mercado, são mais relevantes para a previsão do comportamento dos preços das ações.</li>
 </details>
 
+<details>
+  <summary><strong>Links</strong></summary>
+  <ul>
+    <li>[Apresentação Looker Studio](https://lookerstudio.google.com/reporting/184f019b-ae3f-4cc3-bbd8-35313b405b99)</li>
+    <li>[Apresentação de vídeo (Loom)]()</li>
+    </ul>
 </details>
- <summary><strong>Links</strong></summary>
- <ul>
-   <li>Apresentação Looker Studio</li>
-   <li>Apresentação de vídeo (Loom)</li>
-[Portfólio no GitHub](https://github.com/Cassia-s/PROJETO-4-DataLab)</li>
- </details>
