@@ -99,7 +99,7 @@
 </details>
 
 <details>
-  <summary><strong>Validação de Hipótese (4.3.2)</strong></summary>
+  <summary><strong>Validação de Hipótese</strong></summary>
   <p>Foi realizada a validação da hipótese: "Ações com maior volume médio de negociação são mais voláteis (maior desvio padrão de preço)".</p>
 
   <h4>Método:</h4>
@@ -230,7 +230,8 @@
 <details>
   <summary><strong>Links</strong></summary>
   <ul>
-    <li>[Apresentação Looker Studio](https://lookerstudio.google.com/reporting/184f019b-ae3f-4cc3-bbd8-35313b405b99)</li>
-    <li>[Apresentação de vídeo (Loom)]()</li>
-    </ul>
+    <li><a href="https://lookerstudio.google.com/reporting/184f019b-ae3f-4cc3-bbd8-35313b405b99">Apresentação Looker Studio</a></li>
+    <li><a href="https://www.loom.com/">Apresentação de vídeo (Loom)</a></li>
+  </ul>
 </details>
+
