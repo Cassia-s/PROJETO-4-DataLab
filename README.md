@@ -231,7 +231,7 @@
   <summary><strong>Links</strong></summary>
   <ul>
     <li><a href="https://lookerstudio.google.com/reporting/184f019b-ae3f-4cc3-bbd8-35313b405b99">Apresentação Looker Studio</a></li>
-    <li><a href="https://www.loom.com/">Apresentação de vídeo (Loom)</a></li>
+    <li><a href="https://www.loom.com/share/46db364c831e4ea7aa492cf1b3926727">Apresentação de vídeo (Loom)</a></li>
   </ul>
 </details>
 
